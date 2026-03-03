@@ -1,0 +1,16 @@
+{
+  "apiID": "package_58e699__c__function_aadjuzckm74bq",
+  "apiName": "autoTestGoFunc1772506380906",
+  "label": {
+    "zh_CN": "auto Test Go Func 1772506380906",
+    "en_US": "auto Test Go Func 1772506380906"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
